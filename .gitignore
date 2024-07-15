@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+env/
+
+# Django migrations
+**/migrations/*.py
+**/migrations/*.pyc
+
+# Local settings
+myshop/settings/local.py
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# IDE/Editor files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+
